@@ -1,7 +1,7 @@
 # 网站头像
 avatar:
   img: /img/avatar.png
-  effect: true
+  effect: false
 
 # 网站 favicon
 favicon: /favicon.ico
