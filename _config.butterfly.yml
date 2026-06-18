@@ -101,23 +101,22 @@ font:
 menu:
   首页: / || fas fa-home
 
-  在线免费追剧影视:  
+  📺在线免费追剧影视:  
     GaotubeTV （白嫖影视）: https://tv.gaoops.com || fas fa-video
     MoonTV （免费影视）: https://tv2.gaoops.com/ || fas fa-clapperboard
     ManTV（不对外）: https://mantv.gaoops.com/ || fas fa-film
     
+  随机壁纸API: https://wallpapers.gaoops.top/ || fas fa-palette
     
-  在线免费听歌:
-    音乐站: https://music.gaoops.top/ || fas fa-music
+  音乐站: https://music.gaoops.top/ || fas fa-music
 
   Cloud网盘: https://alist.gaoops.com || fas fa-cloud
 
-  网站资源导航:
-    导航站: https://books.gaoops.com/ || fas fa-map-signs
+  导航站: https://books.gaoops.com/ || fas fa-map-signs
 
   留言板: /messageboard/ || fas fa-comment-dots
    
-  公益站点:
+  📢公益站点:
     TVBox、影视仓、猫影视订阅链接: https://tvbox-public.gaoops.top/ || fas fa-tv 
     IPTV直播源: https://iptv.gaoops.top/txt || fas fa-broadcast-tower
     OrionTV订阅链接: https://tv.gaoops.com/ || fas fa-satellite-dish
