@@ -1,5 +1,5 @@
 ---
-title: 🎨这个API只做一件事:让你停止寻找壁纸，如果壁纸有算法,它应该长这样🔗
+title: 🎨 如果壁纸有算法，它应该长这样：随机壁纸 API
 date: 2025-06-19 12:00:00
 sticky: 999
 tags:
@@ -10,7 +10,7 @@ tags:
 categories:
   - 开源工具
 comments: true  
-cover: https://wallpapers.gaoops.top/girl
+cover: 
 excerpt: 一个随机壁纸 API，五个端点，五种风格。无需注册，无需 Token，一行代码让你的项目拥有灵动的视觉生命力。
 ---
 
@@ -56,7 +56,7 @@ https://wallpapers.gaoops.top/girl
 **HTML img 标签**，一行搞定随机图：
 
 ```html
-<img src="https://wallpapers.gaoops.top/girl" alt="随机美图" />
+<img src="https://wallpapers.gaoops.top/other" alt="随机美图" />
 ```
 
 **作为背景图使用**：
@@ -77,7 +77,7 @@ fetch('https://wallpapers.gaoops.top/avatar')
 **macOS 壁纸自动轮换脚本**：
 
 ```bash
-curl -o ~/wallpaper.jpg https://wallpapers.gaoops.top/girl && \
+curl -o ~/wallpaper.jpg https://wallpapers.gaoops.top/Lolita && \
 osascript -e 'tell application "System Events" \
   to set picture of every desktop to "~/wallpaper.jpg"'
 ```
