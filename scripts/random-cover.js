@@ -9,7 +9,7 @@ function handler(data) {
       hash = ((hash << 5) - hash) + unique.charCodeAt(i);
       hash |= 0;
     }
-    data.cover = `https://www.loliapi.com/acg?seed=${Math.abs(hash)}`;
+    data.cover = `https://wallpapers.gaoops.top/Lolita?seed=${Math.abs(hash)}`;
   }
   return data;
 }
