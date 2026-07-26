@@ -295,21 +295,7 @@ aside:
       link: https://github.com/mrgaoshuiquan
   card_announcement:
     enable: true
-    content: 好博客，一定要 分享出去 呀~
-             Email:vip@gaoops.com
-             📢 网站公告 / 联
-             🛠 OPS 技术协助
-             网络 / 应用 / 系统相关问/跨境电商/环境搭建
-             /环境配置·部署·优化指导
-             🤖 AI工具
-             AI工具选型建议
-             工作流设计与自动
-             效率提升方案拆除
-             ⚙️故障排查
-             各类使用异常
-             帮助定位问题
-             提供技术方向与解决思路
-    
+    content: '👋 嘿，你来了<br>🌐 互联网这么大<br>🍃 能点进来，也算一种缘分<br>📖 文章随便看，觉得有共鸣的<br>🚀 就帮我传出去吧 ——<br>🤝 独立博客的流量，全靠朋友们<br>💬 有话想说？评论区我都会看的<br>📬 vip@gaoops.com'
   card_recent_post:
     enable: true
     # If set 0 will show all
