@@ -6,7 +6,7 @@
 > A personal ops engineer blog, 15 years of experience in operations.  
 > Sharing Linux / SysOps / Automation / AI Tools / Cross-border E-commerce & more.
 
-🌐 访问地址 / Website：[gaoops.com](https://gaoops.com)
+🌐 访问地址 / Website：[https://gaoops.com/](https://gaoops.com)
 
 ---
 
